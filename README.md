@@ -34,4 +34,3 @@ Ball-Pivoting Algorithmを高性能並列処理で実装し、性能評価しま
 
 ## 制作背景
 大学の授業で並列処理を学ぶことを目的として作成しました．
-編集無URL:[https://youtu.be/9OahinX9l5k](https://youtu.be/9OahinX9l5k)
