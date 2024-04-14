@@ -27,7 +27,7 @@ Ball-Pivoting Algorithmを高性能並列処理で実装し、性能評価しま
 2週間
 
 ## 言語
-言語：Python
+言語：C
 
 ## 開発環境
 個人開発でLinux環境で開発を行いました．
