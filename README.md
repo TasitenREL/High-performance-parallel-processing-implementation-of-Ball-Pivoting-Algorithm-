@@ -24,7 +24,7 @@ Ball-Pivoting Algorithmを高性能並列処理で実装し、性能評価しま
 ### 逐次処理と並列処理による点数と全体実行時間の関係
 ![エラー](image/Relationshipbetweenthenumberofpointsandoverallexecutiontimebysequentialandparallelprocessing.png)
 ## 期間
-2ヶ月
+2週間
 
 ## 言語
 言語：Python
